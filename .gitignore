@@ -8,6 +8,9 @@ tmp
 # dependencies
 node_modules
 
+# Django
+
+
 # IDEs and editors
 /.idea
 .project
@@ -110,3 +113,6 @@ yarn-error.log
 # testing
 /coverage
 
+.vscode
+
+./bundle
